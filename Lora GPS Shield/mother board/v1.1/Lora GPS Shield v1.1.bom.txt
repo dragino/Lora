@@ -1,0 +1,47 @@
+Partlist exported from D:/Projects/Lora Serial/Lora GPS Shield/v1.1/Lora GPS Shield v1.1.sch at 2016/7/25 9:24
+
+Part     Value                Device                                 Package              Description                     MF MPN OC_FARNELL OC_NEWARK
+3D_FIX   Green                LEDCHIPLED_0603                        CHIPLED_0603         LED                                                        
+C1       10uF 10v             C-EUC0805                              C0805                CAPACITOR, European symbol                                 
+C2       NL                   C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C3       0.1uF 10v            C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C4       1uF 10v              C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C5       0.1uF 10v            C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C6       0.1uF 10v            C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C8       0.1uF,10v            C-EUC0402                              C0402                CAPACITOR, European symbol                                 
+C9       10uF                 C-EUC0805                              C0805                CAPACITOR, European symbol                                 
+GPS      L80                  L80                                    L80                                                                             
+GPS_ANT  NL                   SMA-KE                                 SMA-KE                                                                          
+GPS_CON                       PINHD-2X2                              2X02                 PIN HEADER                                                 
+J_DIO1                        PINHD-1X21X2_S                         1X02                 PIN HEADER                                                 
+J_DIO2                        PINHD-1X2                              1X02                 PIN HEADER                                                 
+L1       JLC-PZ2012D800-3R0TF BEADS0805                              C0805                                                                           
+LORA_CON                      PINHD-1X71X7_S                         1X07                 PIN HEADER                                                 
+PWR      Green                DRAGINO_LEDCHIPLED_0603                DRAGINO_CHIPLED_0603 LED                                                        
+R1       3.3K                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R2       3.3K                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R3       3.3K                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R4       3.3K                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R5       0                    R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R6       330R                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R7       1K                   R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R8       NL                   R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R9       330R                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R10      47k                  R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R11      47k                  R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R12      510pR                R-US_R0402                             R0402                RESISTOR, American symbol                                  
+R13      3.3K                 R-US_R0402                             R0402                RESISTOR, American symbol                                  
+RST      SWITCHTS-017         SWITCHTS-017                           TS-017                                                                          
+RX       BLUE                 LEDCHIPLED_0603                        CHIPLED_0603         LED                                                        
+RXD                           PINHD-1X3                              1X03                 PIN HEADER                                                 
+SV1                           PINHD-1X31X3_S                         1X03                 PIN HEADER                                                 
+SV2                           PINHD-1X3                              1X03                 PIN HEADER                                                 
+SV3                           PINHD-1X3                              1X03                 PIN HEADER                                                 
+T1       BSS138/SOT23         NMOSFET-SOT23                          SOT-23               MOS FET                                unknown    unknown  
+T2       BSS138/SOT23         NMOSFET-SOT23                          SOT-23               MOS FET                                unknown    unknown  
+TXD                           PINHD-1X3                              1X03                 PIN HEADER                                                 
+U$1      LOGO-NEW             LOGO-NEW                               LOGO-SILK-NEW                                                                   
+U1       74VHC125MTCX         74VHC125PW                             TSSOP14              Quad Buffer/Line Driver;3-state                            
+U2       IC_74VHC125PW        IC_74VHC125PW                          IC_TSSOP14           Quad Buffer/Line Driver;3-state                            
+U3       BEE                  LORAHAT_S                              LORA                                                                            
+U5                            MOUDLE_ARDUINO-38PMOUDLE_ARDUINO-38P_L MOUDLE_ARDUINO-38P_L                                                            
