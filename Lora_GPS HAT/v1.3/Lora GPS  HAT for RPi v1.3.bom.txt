@@ -1,0 +1,29 @@
+Partlist exported from D:/Projects/Lora Product Line/for RPi/v1.3/Lora GPS  HAT for RPi v1.3.sch at 2016/10/24 9:48
+
+Part     Value                Device          Package       Description                MF MPN OC_FARNELL OC_NEWARK
+3D_FIX   Green                LEDCHIPLED_0603 CHIPLED_0603  LED                                                   
+C1       0.1uF 10v            C-EUC0805       C0805         CAPACITOR, European symbol                            
+C2       0.1uF 10V            C-EUC0402       C0402         CAPACITOR, European symbol                            
+C3       0.1uF 10v            C-EUC0805       C0805         CAPACITOR, European symbol                            
+C4       10uF                 C-EUC1206K      C1206K        CAPACITOR, European symbol                            
+GPS      L80                  L80             L80                                                                 
+GPS_ANT  NL                   SMA-KE          SMA-KE                                                              
+GPS_CON                       PINHD-1X4       1X04          PIN HEADER                                            
+JP3                           PINHD-1X3       1X03          PIN HEADER                                            
+L1       JLC-PZ2012D800-3R0TF BEADS0805       C0805                                                               
+LORA     RFM92_93W            RFM92_93W       RFM92_93W                                                           
+LORA_ANT SMA-KE               SMA-KE          SMA-KE                                                              
+PWR      Green                LEDCHIPLED_0603 CHIPLED_0603  LED                                                   
+R1       330R                 R-US_R0402      R0402         RESISTOR, American symbol                             
+R2       2.2K                 R-US_R0402      R0402         RESISTOR, American symbol                             
+R3       47k                  R-US_R0402      R0402         RESISTOR, American symbol                             
+R4       47k                  R-US_R0402      R0402         RESISTOR, American symbol                             
+R5       330R                 R-US_R0402      R0402         RESISTOR, American symbol                             
+RFM_C0N                       PINHD-1X7       1X07          PIN HEADER                                            
+RX       BLUE                 LEDCHIPLED_0603 CHIPLED_0603  LED                                                   
+RXD                           PINHD-1X2       1X02          PIN HEADER                                            
+T1       AP2302GN-HF/SOT23    NMOSFET-SOT23   SOT-23        MOS FET                           unknown    unknown  
+T2       AP2302GN-HF/SOT23    NMOSFET-SOT23   SOT-23        MOS FET                           unknown    unknown  
+TXD                           PINHD-1X2       1X02          PIN HEADER                                            
+U$1      LOGO-NEW             LOGO-NEW        LOGO-SILK-NEW                                                       
+U$2      RPILORASHIELD        RPILORASHIELD   RPILORASHIELD                                                       
