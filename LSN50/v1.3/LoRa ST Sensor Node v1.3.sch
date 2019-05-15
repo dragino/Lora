@@ -17818,7 +17818,7 @@ http://www.zetex.com&lt;p&gt;
 <part name="R11" library="dragino" deviceset="R-US_" device="R0603" value="0Ω"/>
 <part name="R12" library="dragino" deviceset="R-US_" device="R0603" value="10K"/>
 <part name="R13" library="dragino" deviceset="R-US_" device="R0603" value="0Ω"/>
-<part name="R14" library="dragino" deviceset="R-US_" device="R0603" value="10K"/>
+<part name="R14" library="dragino" deviceset="R-US_" device="R0603" value="10M"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="dragino" deviceset="C-EU" device="C0603" value="100pF 10V"/>
 <part name="C2" library="dragino" deviceset="C-EU" device="C0603" value="100pF 10V"/>

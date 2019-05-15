@@ -14706,7 +14706,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="-7.272" y="-9.119" size="0.8128" layer="25" font="vector"/>
 <attribute name="VALUE" x="-5.24" y="-6.833" size="0.8128" layer="27" rot="R270"/>
 </element>
-<element name="R14" library="dragino" package="R0603" value="10K" x="-2.794" y="-6.096" smashed="yes">
+<element name="R14" library="dragino" package="R0603" value="10M" x="-2.794" y="-6.096" smashed="yes">
 <attribute name="NAME" x="-7.239" y="-6.223" size="0.8128" layer="25" font="vector"/>
 <attribute name="VALUE" x="-4.699" y="-7.493" size="0.8128" layer="27"/>
 </element>
