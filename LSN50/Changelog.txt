@@ -1,0 +1,14 @@
+v2.3   (Production 2021-Oct)
+1.Remove D1 to enlarge input battery range, 
+2.Add C3,C8,0402,0.1uF
+3.Add R23,R26,0402,1M, . So pin PA4 and PB15 can be used as interrupt and have low battery drain
+4.Add JP5,1X3 for easy UART access 
+5.Change R11,R13,C1 foot print from 0603 to 0402
+
+v2.2   (Production 2021-Mar)
+Change ESD Footprint
+
+v2.1   (Production 2021-Jan)
+1.Change R14 to 0402，1MΩ to minimum the battery drain on interrupt pin PB14
+2.Change R3、R4 to 0402，4.7KΩ. So no need to modify them for 3 DS18B20 connection.
+3.Add ESD to each I/O
