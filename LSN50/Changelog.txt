@@ -1,3 +1,8 @@
+v3.0
+1. Change Enclosure to LSN50v3 enclosure. LED can be seen from outside, and button can be touch without open enclosure 
+2. Use LoRa ST v4.1 module, which base on LA66 and support OTA update feature. 
+3. Add bluetooth 5.1 support for wireless configure.
+
 v2.3   (Production 2021-Oct)
 1.Remove D1 to enlarge input battery range, 
 2.Add C3,C8,0402,0.1uF
