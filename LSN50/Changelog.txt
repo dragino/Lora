@@ -1,3 +1,19 @@
+v3.3.1
+Thicken the PCB traces for the pads of Serial Port JP5 and SW1; the silkscreen remains v3.3. Apart from modifications in the Eagle source project and Gerber files, all other coordinate files, BOM, and silkscreen remain unchanged and are compatible with the files named LSN50 v3.3.
+
+v3.3
+Remove T1 and Q8.
+Change R25 to 2K, 0402.
+Change R6 to 10K, 0402.
+Change R22 to 100K, 0402.
+Add C18, 1nF, 0402.
+Add U3, TPS22917L.
+Add JP4, PH2.0-2P vertical header.
+Add R39, 20K, 0402.
+Change R33 and R34 to 0R, 0603.
+Change R14 and R23 to 1M, 0603.
+Leave R36 and R37 unpopulated.
+
 v3.0
 1. Change Enclosure to LSN50v3 enclosure. LED can be seen from outside, and button can be touch without open enclosure 
 2. Use LoRa ST v4.1 module, which base on LA66 and support OTA update feature. 
@@ -17,3 +33,4 @@ v2.1   (Production 2021-Jan)
 1.Change R14 to 0402，1MΩ to minimum the battery drain on interrupt pin PB14
 2.Change R3、R4 to 0402，4.7KΩ. So no need to modify them for 3 DS18B20 connection.
 3.Add ESD to each I/O
+
